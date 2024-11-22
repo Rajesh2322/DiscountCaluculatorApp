@@ -1,0 +1,5 @@
+com\planon\discountCalculator\model\Product.class
+com\planon\discountCalculator\model\ProductType.class
+com\planon\discountCalculator\DiscountCalculator.class
+com\planon\discountCalculator\DiscountCalculatorApp.class
+com\planon\discountCalculator\DiscountPolicy.class
